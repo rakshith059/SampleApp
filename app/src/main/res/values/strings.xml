@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="rs">\u20B9</string>
+    <string name="recommended">RECOMMENDED</string>
+    <string name="cravers">CRAVERS</string>
+    <string name="burgers">BURGERS</string>
+    <string name="beverages">BEVERAGES</string>
+    <string name="vegetarian"> Show vegetarian</string>
+    <string name="veg">VEGETARIAN</string>
+    <string name="non_veg">NON_VEGETARIAN</string>
+</resources>
